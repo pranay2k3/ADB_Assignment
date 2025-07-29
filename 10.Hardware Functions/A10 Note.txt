@@ -1,0 +1,5 @@
+adb shell input keyevent 3 : HOME
+adb shell input keyevent 27:  CAMERA
+adb shell input keyevent 4: BACK
+adb shell input keyevent 24: VOLUME BUTTON
+adb shell input keyevent 26: LOCK

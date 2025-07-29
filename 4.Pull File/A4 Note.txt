@@ -1,0 +1,2 @@
+adb pull /sdcard/DCIM/hi C:\Users\hp\Desktop:-
+This command copies a file from your Android device  to a specified location on your computer. It's useful for retrieving logs, documents, or any accessible file from the device.

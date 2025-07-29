@@ -1,0 +1,1 @@
+adb shell screencap /sdcard/screen.png:- It captures the screen and saves it on the device.

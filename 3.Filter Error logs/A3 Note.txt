@@ -1,0 +1,2 @@
+adb logcat *:E > error_logs.txt:-
+This command uses ADB to collect only error-level logs from all Android system and app sources in real time, and then saves those logs into a file named error_logs.txt on your computer. It helps developers or testers quickly identify critical issues on an Android device without sifting through informational or debug logs.

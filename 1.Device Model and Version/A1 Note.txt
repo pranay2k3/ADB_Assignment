@@ -1,0 +1,2 @@
+adb shell getprop ro.product.model:-  Retrieves your Android phone's model name.
+adb shell getprop ro.build.version.release:- Fetches the Android OS version.

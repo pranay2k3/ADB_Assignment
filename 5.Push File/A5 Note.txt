@@ -1,0 +1,2 @@
+adb push "C:\Users\hp\Desktop\althara" /sdcard/Download:-
+The 'adb push' command lets you copy a file from your computer to your Android device. You specify the local file path and the destination path on the device.

@@ -1,0 +1,2 @@
+To launch an app using ADB, you can use the adb shell monkey -p com.example.app -c android.intent.category.LAUNCHER 1 command which simulates a user event to start the app. 
+To force-stop the app, use adb shell am force-stop com.example.app, which immediately stops the app's process. Replace com.example.app with the actual package name of the app.
